@@ -1,5 +1,5 @@
 This is a line in f1 txt file. This was added in F1 branch. "This extra text added in F2 branch"
 This line was also added in F1 branch
-and this line too.
+and this line too. "A line from F2 was removed from below. This line is being added to reflect that in B1"
 
-This is a new line added in F2 branch.
+This is a new line to fix a bug!!
